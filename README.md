@@ -77,7 +77,7 @@ Identify customer accounts with the highest fraud exposure using operational fra
 
 Rank customer accounts by expected financial loss and investigation priority.
 
-![Expected Exposure Ranking](images/high_risk_accounts_1.png)
+![Expected Exposure Ranking](images/expected_exposure_ranking.png)
 
 ---
 
@@ -101,7 +101,7 @@ Detect burst transaction behaviour and suspicious account activity occurring wit
 
 Analyze high-velocity accounts ranked by expected fraud exposure.
 
-![Velocity Analytics](images/high_velocity_transactions_1.png)
+![Velocity Analytics](images/velocity_analytics.png)
 
 ---
 
@@ -117,7 +117,7 @@ Identify destination accounts repeatedly receiving suspicious transfers from mul
 
 Rank destination accounts using a composite destination risk index and expected fraud exposure.
 
-![Destination Risk Analytics](images/repeated_destination_accounts_1.png)
+![Destination Risk Analytics](images/destination_risk_analytics.png)
 
 ---
 
@@ -133,7 +133,7 @@ Monitor geographically distributed fraud activity using country, channel, device
 
 Visualize country-level fraud exposure and combined cross-border risk signals.
 
-![Cross-Border Risk Analytics](images/cross_border_alerts_1.png)
+![Cross-Border Risk Analytics](images/cross_border_risk_analytics.png)
 
 ---
 
