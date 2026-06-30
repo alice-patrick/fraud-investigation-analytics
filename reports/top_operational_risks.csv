@@ -1,0 +1,5 @@
+severity,alerts,confirmed_frauds,avg_fraud_score,total_expected_benefit
+LOW,4128,80,0.5365,268386051.91
+MEDIUM,1721,51,0.8836,265819644.3
+HIGH,962,21,0.9921,244841031.51
+CRITICAL,71,22,0.9999,146543967.62

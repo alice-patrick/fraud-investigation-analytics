@@ -1,0 +1,2 @@
+total_transactions,total_alerts,total_frauds,true_positives,false_positives,missed_frauds,alert_precision,fraud_recall,avg_fraud_score,total_expected_benefit
+64000,6882,193,174,6708,19,0.0253,0.9016,0.0865,1043192978.96
