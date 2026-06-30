@@ -131,7 +131,7 @@ Monitor geographically distributed fraud activity using country, channel, device
 
 Visualize country-level fraud exposure and combined cross-border risk signals.
 
-![Cross-Border Risk Analytics](images/cross_border_risk_analytics.png)
+![Cross-Border Risk Analytics](images/cross-border_risk_analytics.png)
 
 ---
 
