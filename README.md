@@ -47,9 +47,7 @@ This repository focuses on the operational investigation layer built on top of t
 
 ---
 
-# Dashboard Screenshots
-
-## Dashboard Overview
+# Dashboard Overview
 
 The main operational dashboard summarizes fraud alerts, confirmed frauds, fraud conversion rate, expected operational benefit, and investigation workload.
 
