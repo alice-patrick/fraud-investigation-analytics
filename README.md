@@ -223,7 +223,7 @@ Key objectives include:
 
 # Author
 
-**ALIKI Pipitsa**
+**Aliki Patrikiou**
 
 MSc Artificial Intelligence
 
